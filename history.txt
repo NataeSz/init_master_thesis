@@ -1,0 +1,74 @@
+  205  git init
+  206  git add .
+  207  git status
+  208  git clone https://github.com/NataeSz/Praca_magisterska.git
+  209  sit status
+  210  git status
+  211  git add .
+  212  mkdir Python_sripts
+  213  git status
+  214  git commit "Adding python scripts folder"
+  215  git commit -m "Python scripts folder added"
+  216  git add .
+  217  git status
+  218  git commit -m "Python scripts folder added"
+  219  git push -u origin main
+  220  git push -u origin master
+  221  git add .
+  222  git status
+  223  git remote add origin https://github.com/NataeSz/Praca_magisterska.git
+  224  git status
+  225  git status
+  226  git add .
+  227  git status
+  228  git log
+  229  cd Python_scripts
+  230  mkdir Python_scripts
+  231  cd Python_scripts
+  232  pwd test.py
+  233  git status
+  234  ..
+  235  cd ..
+  236  git status
+  237  git add .
+  238  git status
+  239  git clone https://github.com/NataeSz/Praca_magisterska.git
+  240  cd Praca_magisterska
+  241  git status
+  242  mkdir Python_scripts
+  243  git add .
+  244  git status
+  245  git add .
+  246  gut status
+  247  git status
+  248  git commit -m "Test file added"
+  249  git push
+  250  git log
+  251  git config -l
+  253  git config user.name "Natalia Szwgaierczak"
+  254  git config user.email "ns73207@student.sgh.waw.pl"
+  255  git log
+  256  git config -l
+  257  git add .
+  258  git status
+  259  git commit -m "Second test file added"
+  260  git log
+  261  cd Python_scripts
+  262  rm test.txt
+  263  rm test2.txt
+  264  cd ..
+  265  git add .
+  266  git status
+  267  git commit -m "Test files removed"
+  268  git log
+  269  git push
+  270  mkdir Latex_scripts
+  271  cd Latex_scripts
+  272  dir
+  273  cd ..
+  274  git add .
+  275  git status
+  276  git commit -m "Templates added"
+  277  git push
+  278  history
+  279  history > history.txt
