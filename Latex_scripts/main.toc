@@ -1,0 +1,16 @@
+\babel@toc {polish}{}
+\contentsline {section}{\numberline {1}Wprowdzenie}{5}{section.1}%
+\contentsline {section}{\numberline {2}Rzeczy podstawowe}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Kompilowanie plików \LaTeX }{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Podstawowe formatowanie tekstu}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Czcionka i jej wielkość}{7}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Matematyka}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Podstawowa matematyka}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Odnośniki do matematyki i innych rzeczy}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Nieco bardziej skomplikowane formuły}{9}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Rysunki i tablice}{10}{section.4}%
+\contentsline {section}{\numberline {5}Literatura}{12}{section.5}%
+\contentsline {section}{\numberline {A}Dodatek: Ważne rzeczy do dodania}{15}{appendix.A}%
+\contentsline {section}{Lista tablic}{21}{section*.6}%
+\contentsline {section}{Lista rysunków}{22}{section*.7}%
+\contentsline {section}{Streszczenie}{23}{section*.8}%
